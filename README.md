@@ -57,3 +57,4 @@ Am invatat ca in Python, pentru a crea un tuplu cu un singur element, este oblig
 5)Acelasi lucru ca in problema NR.4, cand incercam sa salvez suma in baza de date folosind comanda cursor.execute(..., (suma)), primeam o eroare. Problema era ca Python il interpreta  doar ca pe un numar pus intre paranteze, nu ca pe un tuplu
 SOLUTIE:
 am schimbat sintaxa pt un tuplu cu un singur element, adica : "(suma,)", introducand virgula
+<img width="1911" height="1038" alt="image" src="https://github.com/user-attachments/assets/ea627fad-a01b-4ab0-9713-d0ef6eb18252" />
