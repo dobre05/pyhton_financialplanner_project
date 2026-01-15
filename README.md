@@ -1,4 +1,4 @@
-# pyhton_financialplanner_project
+# Financial Planner
 A desktop app for planning your finances.
 Biblioteci necesare:
 
